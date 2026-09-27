@@ -5,6 +5,7 @@ A curated list of AI-powered tools for book. Contribute to this list via our [Co
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | BookBaker | Write a Book in Minutes with Powerful AI Technology | [https://www.bookbaker.com/](https://www.bookbaker.com/) |
+| kdpbook.io | Describe a book, get Amazon KDP-ready files | [https://kdpbook.io](https://kdpbook.io) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
