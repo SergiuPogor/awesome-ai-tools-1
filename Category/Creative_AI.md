@@ -8,6 +8,7 @@ A curated list of AI-powered tools for creative ai. Contribute to this list via 
 | PromeAI | Unleash Your Creativity with Free AI Art & Video Generation | [https://www.promeai.pro](https://www.promeai.pro) |
 
 | Raphael | AI workspace for image, video & design | [https://raphael.app](https://raphael.app) |
+| Yeri | Free AI image generator for shipping-side project visuals | [https://yeri.ai](https://yeri.ai) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
