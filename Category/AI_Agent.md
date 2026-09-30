@@ -11,6 +11,7 @@ A curated list of AI-powered tools for ai agent. Contribute to this list via our
 | Knowly AI | AI Agent Automation | [https://goknowly.ai/](https://goknowly.ai/) |
 | Xquik | X API tools for AI agents | [https://docs.xquik.com](https://docs.xquik.com) |
 | Quell | UAT AI Agents | [https://www.quellit.ai/](https://www.quellit.ai/) |
+| Clarity | Base x402 research API + paid USDC chat | [https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) |
 | XMACNA Funcionarios Digitais com IA | AI digital workers for business automation | [https://xmacna.ai/funcionarios-digitais](https://xmacna.ai/funcionarios-digitais) |
 
 ## More Resources
