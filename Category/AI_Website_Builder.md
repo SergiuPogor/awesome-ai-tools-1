@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai website builder. Contribute to this li
 |-----------|----------------------------|---------|
 | 10Web | 10Web AI-Powered Website Builder & High-Speed Hosting | [https://10web.io/](https://10web.io/) |
 | Forge | AI full-stack app creator with BYOK | [https://forge-web.rebaselabs.online](https://forge-web.rebaselabs.online) |
+| Massvai | AI full-stack Next.js app builder | [https://massvai.com](https://massvai.com) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
