@@ -6,6 +6,7 @@ A curated list of AI-powered tools for social media manager. Contribute to this 
 |-----------|----------------------------|---------|
 | BulkPublish | API + MCP social publishing for AI agents | [https://www.bulkpublish.com/](https://www.bulkpublish.com/) |
 | Pygma AI | Your Personal AI Social Media Manager free | [https://www.pygma.me/](https://www.pygma.me/) |
+| Unsora | Open-source AI media maker and post scheduler | [https://tryunsora.com/](https://tryunsora.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
