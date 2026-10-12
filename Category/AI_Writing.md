@@ -7,6 +7,7 @@ A curated list of AI-powered tools for ai writing. Contribute to this list via o
 | Seapik | Seapik AI Content Creator | [https://www.seapik.com/](https://www.seapik.com/) |
 | InstaText | Write Like a Native Speaker with AI Editing | [https://instatext.io/](https://instatext.io/) |
 | Wordsmith | Whole-manuscript developmental editor | [https://wordsmith.page/](https://wordsmith.page/) |
+| ImagineYourBook | Plan, draft, rewrite books with series story bible | [https://www.imagineyourbook.com/](https://www.imagineyourbook.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
