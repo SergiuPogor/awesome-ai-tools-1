@@ -6,7 +6,7 @@ A curated list of AI-powered tools for ai avatars. Contribute to this list via o
 |-----------|----------------------------|---------|
 | Character AI | Build Custom AI Chatbots with Character.AI | [https://character.ai/](https://character.ai/) |
 | Janitor AI | Janitor AI Character Creator | [https://janitorai.com/](https://janitorai.com/) |
-| Muse Me | Create original anime avatars from one photo | [https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/?src=toolkitly&campaign=directory&content=github_pr](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/?src=toolkitly&campaign=directory&content=github_pr) |
+| Muse Studio | Turn one text idea into a bold AI poster; limited free public test | [https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/create?utm_source=toolkitly&utm_campaign=studio_round2&utm_content=github_directory](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/create?utm_source=toolkitly&utm_campaign=studio_round2&utm_content=github_directory) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
