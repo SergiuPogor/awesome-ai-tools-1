@@ -5,6 +5,7 @@ A curated list of AI-powered tools for sales. Contribute to this list via our [C
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Touch AI | The AI-Powered Tool for Faster Sales Prospecting | [https://touch.app/](https://touch.app/) |
+| looot | Business data API and MCP server for AI agents | [https://looot.ai/](https://looot.ai/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
