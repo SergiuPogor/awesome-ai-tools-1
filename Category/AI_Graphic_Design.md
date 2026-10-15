@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai graphic design. Contribute to this lis
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Canva | Design Like a Pro with Canva – Free Graphic Design Tool for Social Media & More | [https://www.canva.com](https://www.canva.com) |
+| PhoText Font Finder | Identify fonts from images, free matches | [https://photext.ai/FontFinder/](https://photext.ai/FontFinder/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
